@@ -1,6 +1,6 @@
 "use strict";
 
-import "../src/styles/main.css";
+import "./styles/main.css";
 import { add } from "./utils/math.js";
 import { getOrder } from "./utils/modern.js";
 
